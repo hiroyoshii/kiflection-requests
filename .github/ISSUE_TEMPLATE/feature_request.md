@@ -1,20 +1,31 @@
+
 ---
-name: Feature request
-about: Suggest an idea for this project
-title: ''
+name: 機能リクエスト（ご要望・ご提案）
+about: Webアプリの改善や新しい機能のご要望をお聞かせください
+title: '[機能リクエスト] （ご要望の概要を一言で）'
 labels: ''
 assignees: ''
+---
 
 ---
 
-**Is your feature request related to a problem? Please describe.**
-A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
 
-**Describe the solution you'd like**
-A clear and concise description of what you want to happen.
+**現在お困りのこと・不便な点**
+どんなことで困っていますか？（例：〇〇が使いづらい、△△ができない など）
 
-**Describe alternatives you've considered**
-A clear and concise description of any alternative solutions or features you've considered.
 
-**Additional context**
-Add any other context or screenshots about the feature request here.
+**ご希望の対応・解決方法**
+どのような対応や機能追加を望みますか？（例：〇〇をもっと簡単にしたい、△△機能がほしい など）
+
+
+**他に考えた案や代替方法**
+他に検討した方法や、似た機能があれば教えてください。
+
+
+**このご要望が実現すると嬉しい理由・効果**
+なぜこの改善や機能追加が重要だと思いますか？（例：多くの人が便利になる、作業時間が短縮できる など）
+
+**ご利用状況・補足情報**
+プレミアムユーザーの方はチェックしてください：[ ] プレミアムユーザーです
+アプリのユーザーID（任意）：
+その他、参考になる情報やスクリーンショットがあればご記入ください。
