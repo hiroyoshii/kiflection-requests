@@ -1,0 +1,42 @@
+name: 機能リクエスト
+description: 改善/新機能の提案
+title: "[Feature] （概要を一言で）"
+labels: ["triage"]
+body:
+  - type: checkboxes
+    id: premium
+    attributes:
+      label: プレミアム利用状況
+      options:
+        - label: プレミアムユーザーです
+          required: false
+  - type: input
+    id: userId
+    attributes:
+      label: アプリユーザーID (自動入力可 / 任意)
+      placeholder: 例: uid_xxxxxxxxx
+  - type: textarea
+    id: problem
+    attributes:
+      label: 現在の課題 / 不便
+      description: 何が困っているか
+    validations:
+      required: true
+  - type: textarea
+    id: solution
+    attributes:
+      label: 望む挙動 / 解決案
+    validations:
+      required: true
+  - type: textarea
+    id: value
+    attributes:
+      label: 価値 / 効果
+      description: なぜ重要か（短く）
+    validations:
+      required: true
+  - type: textarea
+    id: extra
+    attributes:
+      label: 補足
+      required: false
